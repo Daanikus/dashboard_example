@@ -1,0 +1,2 @@
+tenets:
+- import: codelingo/cacophony/defer-in-loop
