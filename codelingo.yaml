@@ -1,6 +1,2 @@
 tenets:
-- import: codelingo/cockroachdb/line-length-limit
-- import: codelingo/kubernetes/jsonapi-kind-compulsory-metadata
-- import: codelingo/kubernetes/flags-have-underscores
-- import: codelingo/effective-go/loop-variable-used-in-go-routine
-- import: codelingo/go/unconvert
+- import: codelingo/cacophony/defer-in-loop
