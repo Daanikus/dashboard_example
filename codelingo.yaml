@@ -1,2 +1,3 @@
 tenets:
+- import: codelingo/code-review-comments/short-name-limited-scope
 - import: codelingo/cacophony/defer-in-loop
