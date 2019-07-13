@@ -1,2 +1,4 @@
 tenets:
+- import: codelingo/jenkinsx/orginterfaces
+- import: codelingo/jenkinsx/intformat
 - import: codelingo/effective-go/defer-close-file
