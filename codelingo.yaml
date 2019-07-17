@@ -1,4 +1,3 @@
 tenets:
-- import: codelingo/jenkinsx/orginterfaces
-- import: codelingo/jenkinsx/intformat
+- import: codelingo/code-review-comments/use-crypto-rand
 - import: codelingo/effective-go/defer-close-file
